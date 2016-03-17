@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\flappyBird\scripts\isReady.cs">
+    <Files>
+      <File FileName="Assets\flappyBird\scripts\isReady.cs" Line="22" Column="23" />
+      <File FileName="Assets\flappyBird\scripts\restart.cs" Line="27" Column="6" />
+      <File FileName="Assets\flappyBird\scripts\clider.cs" Line="50" Column="14" />
+      <File FileName="Assets\flappyBird\scripts\bird.cs" Line="1" Column="1" />
+      <File FileName="Assets\flappyBird\scripts\score.cs" Line="48" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
